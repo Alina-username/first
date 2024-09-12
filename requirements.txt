@@ -1,1 +1,7 @@
-variable test
+
+test-opening
+txt
+check fork trigger
+second test fork
+test without marked checkbox
+
